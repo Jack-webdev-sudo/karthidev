@@ -6,7 +6,8 @@
   "description": "Personal portfolio hosted on Vercel",
 
   "records": {
-    "A": ["76.76.21.21"]
+    "A": ["76.76.21.21"],
+    "TXT": ["vc-domain-verify=karthi.thedev.me,a3ddf91bd1835dbc0f96"]
   },
 
   "proxied": false
